@@ -44,3 +44,13 @@ git remote add origin........
 ```
 git push -u add origin
 ```
+***tips***
+Github username
+```
+git config --global user.name
+```
+Github  mail
+```
+git config --global user.mail
+```
+
