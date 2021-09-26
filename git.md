@@ -24,3 +24,23 @@ git remote add origin...........
 ```
 git push -u origin master
 ```
+
+**GIT PUSH**(Normal github push)
+
+```
+git init
+```
+```
+git add . or git add --all
+```
+```
+git commit -m "final file"
+```
+then create repo/repository in Github
+copy 
+```
+git remote add origin........
+```
+```
+git push -u add origin
+```
